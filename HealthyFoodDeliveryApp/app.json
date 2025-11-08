@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "HealthyFoodDeliveryApp",
+    "slug": "HealthyFoodDeliveryApp",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
