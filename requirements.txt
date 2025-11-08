@@ -1,5 +1,0 @@
-expo: 
-expo-font
-expo-status-bar
-react
-react-native
